@@ -1,3 +1,5 @@
 export default {
-    API_URL : 'http://192.168.99.100:8080/'
+    API_URL : 'http://localhost:3001/',
+    WATSON : 'watson',
+    USER_LIST : 'user/list'
 }
